@@ -1,7 +1,7 @@
 apply plugin: 'java'
 apply plugin: 'maven'
 
-// Repo forked from https://github.com/LucidWorks/crux
+// Repo forked from https://github.com/chimbori/crux
 group = 'com.chimbori.crux'
 version = '2.0.1-lucid'
 
