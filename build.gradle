@@ -1,8 +1,9 @@
 apply plugin: 'java'
 apply plugin: 'maven'
 
+// Repo forked from https://github.com/LucidWorks/crux
 group = 'com.chimbori.crux'
-version = '2.0.1'
+version = '2.0.1-lucid'
 
 description = """Crux parses Web pages to identify the crux of an article — the very essential 
   points — minus all the fluff. The library consists of multiple independent APIs. You can pick and 

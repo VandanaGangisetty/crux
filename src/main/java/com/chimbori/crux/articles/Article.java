@@ -91,7 +91,7 @@ public class Article {
   /**
    * Class which encapsulates the data from an image found under an element
    */
-  static class Image {
+  public static class Image {
     public String src;
     public int weight;
     public String title;
